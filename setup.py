@@ -12,7 +12,7 @@ setup(
     version=__version__,
     author=__author__,
     author_email=__email__,
-    url='https://github.com/dvingerh/PyInstaLive',
+    url='https://github.com/bahmanfarshbaf/PyInstaLive',
     packages=['pyinstalive'],
     entry_points={
         'console_scripts': [
